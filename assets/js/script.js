@@ -1,3 +1,5 @@
+require('bootstrap');
+
 // $(document).ready() method is used to make a fn available after the doc is loaded (code inside method runs once DOM is ready to execute JS code)
 // can use shorthand `$()` for $(document).ready() method
 $(document).ready(function() {
